@@ -16,4 +16,4 @@ Our app is very simple and straightforward. We have a clean interface that makes
 ### View the app (Hosted on Netlify):
 
 
-### Thanks for visiting this repo, take care! INSANE
+### Thanks! INSANE
