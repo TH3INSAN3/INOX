@@ -1,4 +1,4 @@
-## Todo App: A Simple Todo Application
+## INOX Todo App: A Simple Todo Application
 
 ### What is Todo App?
 
@@ -36,4 +36,4 @@ https://masud-todo-app.netlify.app/
 
 React.js, Tailwind CSS
 
-### Thanks for visiting this repo, take care!
+### Thanks for visiting this repo, take care! INSANE
